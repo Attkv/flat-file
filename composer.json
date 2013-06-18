@@ -9,7 +9,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "symfony/yaml": "dev-master",
+        "symfony/yaml": "2.2.*",
         "doctrine/inflector": "dev-master"
     },
     "autoload": {
