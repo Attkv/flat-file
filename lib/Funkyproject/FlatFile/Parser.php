@@ -2,7 +2,7 @@
 
 namespace Funkyproject\Sage;
 
-use Funkyproject\FixedFile\ConfigYml;
+use Funkyproject\FlatFile\ConfigYml;
 
 class Parser
 {

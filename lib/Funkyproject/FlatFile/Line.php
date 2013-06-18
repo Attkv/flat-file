@@ -1,6 +1,6 @@
 <?php
 
-namespace Funkyproject\FixedFile;
+namespace Funkyproject\FlatFile;
 
 class Line
 {

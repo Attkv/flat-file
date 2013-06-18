@@ -1,7 +1,7 @@
 <?php
-namespace Funkyproject\FixedFile\Tests;
+namespace Funkyproject\FlatFile\Tests;
 
-use Funkyproject\FixedFile\ConfigYml;
+use Funkyproject\FlatFile\ConfigYml;
 
 class ConfigYmlTest extends \PHPUnit_Framework_TestCase
 {

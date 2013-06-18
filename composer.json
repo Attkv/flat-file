@@ -13,6 +13,6 @@
         "doctrine/inflector": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Funkyproject\\FixedFile": "lib/" }
+        "psr-0": { "Funkyproject\\FlatFile": "lib/" }
     }
 }

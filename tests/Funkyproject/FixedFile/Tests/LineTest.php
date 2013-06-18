@@ -1,8 +1,8 @@
 <?php
-namespace Funkyproject\FixedFile\Tests;
+namespace Funkyproject\FlatFile\Tests;
 
 
-use Funkyproject\FixedFile\Line;
+use Funkyproject\FlatFile\Line;
 
 class LineTest extends \PHPUnit_Framework_TestCase
 {
@@ -26,7 +26,7 @@ class LineTest extends \PHPUnit_Framework_TestCase
     {
         $dump = array('length' => 1, 'pos' => 1);
 
-        $config = $this->getMockBuilder('Funkyproject\\FixedFile\\ConfigYml')
+        $config = $this->getMockBuilder('Funkyproject\\FlatFile\\ConfigYml')
             ->disableOriginalConstructor()
             ->getMock();
         $config
