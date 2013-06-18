@@ -1,0 +1,14 @@
+code_journal: { length: 3, pos: 1}
+date_piece: {length: 6, pos: 4 }
+type_piece: {length: 2, pos: 10 }
+compte_generale: {length: 13, pos: 12 }
+type_compte: {length: 1, pos: 25}
+compte_auxiliaire: {length: 13, pos: 26}
+reference: {length: 13, pos: 39}
+libelle: {length: 25, pos: 52}
+mode_paiment: {length: 1, pos: 77}
+date_echeance: {length: 6, pos: 78 }
+sens: {length: 1, pos: 84}
+montant: {length: 20, pos: 85}
+type_ecriture: {length: 1, pos: 105}
+numero_piece:  {length: 7, pos: 106}

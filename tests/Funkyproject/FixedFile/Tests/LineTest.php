@@ -14,14 +14,6 @@ class LineTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('A', $line->get('input_1'));
     }
 
-    public function testLineGetInput()
-    {
-        $config = $this->getConfig();
-        $line = new Line('A1234DD', $config);
-
-        $this->assertEquals('A', $line->getInput());
-    }
-
     public function getConfig()
     {
         $dump = array('length' => 1, 'pos' => 1);

@@ -16,8 +16,7 @@ class Line
     public function get($key)
     {
         $config = $this->config->get($key);
-
-        return substr($this->content, $config['pos'] - 1, $config['length']);
+        return trim(substr($this->content, $config['pos'] - 1, $config['length']));
     }
 
 }
