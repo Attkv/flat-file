@@ -1,6 +1,6 @@
 {
-    "name": "funkyproject/fixed-file",
-    "description": "Parser Fixed File",
+    "name": "funkyproject/flat-file",
+    "description": "Flat File Parser",
     "authors": [
         {
             "name": "Aurélien Fontaine",
