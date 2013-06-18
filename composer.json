@@ -1,0 +1,18 @@
+{
+    "name": "funkyproject/fixed-file",
+    "description": "Parser Fixed File",
+    "authors": [
+        {
+            "name": "Aurélien Fontaine",
+            "email": "aurelien@attraktiv.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/yaml": "dev-master",
+        "doctrine/inflector": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Funkyproject\\FixedFile": "lib/" }
+    }
+}

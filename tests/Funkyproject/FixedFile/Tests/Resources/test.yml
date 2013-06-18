@@ -1,0 +1,4 @@
+test:
+   input_1: {long: 1}
+   input_2: {long: 4}
+   input_3: {long: 2}

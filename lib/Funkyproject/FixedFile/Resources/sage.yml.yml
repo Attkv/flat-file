@@ -1,0 +1,14 @@
+paie:
+  code_journal: { long: 2}
+  date_piece: {long: 3 }
+  type_piece: {long: 2 }
+  compte_generale: {long: 13}
+  type_compte: {long: 1}
+  compte_auxiliaire: {long: 13}
+  reference: {long: 13}
+  mode_paiment: {long: 1}
+  date_echeance: {long: 6}
+  sens: {long: 1}
+  montant: {long: 20}
+  type_ecriture: {long: 1}
+  numero_piece:  {long: 7}
