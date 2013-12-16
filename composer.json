@@ -9,7 +9,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "symfony/yaml": "2.2.*",
+        "symfony/yaml": "2.*",
         "doctrine/inflector": "1.0.*"
     },
     "autoload": {
